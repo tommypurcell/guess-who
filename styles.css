@@ -4,3 +4,14 @@ body {
 .card {
     background-color: white;
 }
+span {
+    color: black;
+}
+.header {
+    display: grid;
+    grid-template-columns: 160px 160px;
+    justify-content: center;
+}
+img {
+    width: 100%;
+  }
